@@ -1,5 +1,13 @@
-# Hi there 👋
+# Hi there - Welcome to my GitHub profile👋
 
-My Name is Joanna. I'm a prospective full-stack developer. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+My name is Joanna. I just started my Tech journey with a Bootcamp at Spiced Academy to become a full-stack developer. 
+
+
+### Unordered List
+- Bachelor in Business Administration
+- Apprenticeship in Hotel Management 
+
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
