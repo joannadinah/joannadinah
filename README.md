@@ -7,9 +7,9 @@ My name is Joanna.
 
 
 ### Unordered List
-- Spiced Academy Web Development 
-- Bachelor in Business Administration
-- Apprenticeship in Hotel Management 
+- Spiced Academy Web Development 🌶️
+- Bachelor in Business Administration 
+- Apprenticeship in Hotel Management :hotel:
 
 
 ### Skills
